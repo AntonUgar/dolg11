@@ -1,0 +1,19 @@
+﻿<Window x:Class="Valhalaaa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Valhalaaa"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="718" Width="1280">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Без названия.jpg"/>
+        </Grid.Background>
+        <Button x:Name="StartButton" Content="Начать" HorizontalAlignment="Left" Margin="760,555,0,0" VerticalAlignment="Top" Height="79" Width="282" Click="StartButton_Click" FontFamily="Yu Gothic UI Semibold" FontSize="24"/>
+        <TextBox HorizontalAlignment="Left" Margin="37,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="508" Height="467" Text="Одним из жизненно необходимых природных компонентов несомненно можно назвать атмосферный воздух. Негативное воздействие на окружающую среду подразумевает его загрязнение в том числе. Не трудно догадаться, к чему это может привести: начиная от дискомфорта для живых организмов, заканчивая заболеваниями и отравлением природы в целом. Загрязняющие воздух вещества имеют множество источников. В основном – это предприятия, деятельность которых подразумевает выбросы загрязняющих веществ. Государством установлены нормативы выбросов, превышение которых принято считать загрязнением воздуха. Для каждого источника устанавливается предельно допустимый норматив вредного физического воздействия на атмосферный воздух." FontFamily="Yu Gothic UI Semibold" FontSize="20" Background="#FFA9C8C8" BorderBrush="White" BorderThickness="3,3,3,3" TextChanged="TextBox_TextChanged"/>
+        <Image HorizontalAlignment="Left" Height="363" Margin="658,97,0,0" VerticalAlignment="Top" Width="555" Source="/image338.jpg"/>
+        <Button x:Name="ExitButton" Content="Выход" HorizontalAlignment="Left" Margin="192,560,0,0" VerticalAlignment="Top" Height="79" Width="282" FontSize="24" FontFamily="Yu Gothic UI Semibold" Click="ExitButton_Click"/>
+
+    </Grid>
+</Window>

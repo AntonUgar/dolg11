@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="image338.jpg" />
+    <None Remove="Без названия.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CaclulateLib\CaclulateLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="image338.jpg" />
+    <Resource Include="Без названия.jpg" />
+  </ItemGroup>
+
+</Project>

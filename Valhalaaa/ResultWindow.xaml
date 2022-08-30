@@ -1,0 +1,81 @@
+﻿<Window x:Class="Valhalaaa.ResultWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Valhalaaa"
+        mc:Ignorable="d"
+        Title="ResultWindow" Height="754" Width="522">
+    <Window.Background>
+        <ImageBrush ImageSource="/Без названия.jpg"/>
+    </Window.Background>
+    <Grid x:Name="ResultMainGrid" HorizontalAlignment="Left" Height="720" VerticalAlignment="Top" Width="449" Grid.ColumnSpan="3" Grid.Column="5" Margin="36,44,0,0" Grid.RowSpan="13" RenderTransformOrigin="0.534,0.515">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="228*"/>
+            <ColumnDefinition Width="221*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox   x:Name="Data1" HorizontalAlignment="Left" Margin="122,430,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16" Grid.Column="1"/>
+        <TextBox   x:Name="Data2" HorizontalAlignment="Left" Margin="122,400,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="14" Grid.Column="1"/>
+        <TextBox  x:Name="Data3"  HorizontalAlignment="Left" Margin="62,370,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16" Grid.Column="1"/>
+        <TextBox  x:Name="Data4" HorizontalAlignment="Left" Margin="122,370,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16" Grid.Column="1"/>
+        <TextBox  x:Name="Data5" HorizontalAlignment="Left" Margin="62,400,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16" Grid.Column="1"/>
+        <TextBox  x:Name="Data6" HorizontalAlignment="Left" Margin="62,430,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16" Grid.Column="1"/>
+        <TextBox  x:Name="Data7" HorizontalAlignment="Left" Margin="2,400,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16" Grid.Column="1"/>
+        <TextBox x:Name="Data8" HorizontalAlignment="Left" Margin="2,430,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="14" Grid.Column="1"/>
+        <TextBlock  x:Name="Datablock1" HorizontalAlignment="Left" Margin="122,280,0,0" Text="500" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" Background="White" TextAlignment="Center" FontSize="16" Grid.Column="1"/>
+        <TextBox   x:Name="Data9" HorizontalAlignment="Left" Margin="110,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16"/>
+        <TextBox  x:Name="Data10" HorizontalAlignment="Left" Margin="110,340,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16"/>
+        <TextBox  x:Name="Data11"  HorizontalAlignment="Left" Margin="110,370,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16"/>
+        <TextBox  x:Name="Data12" HorizontalAlignment="Left" Margin="110,430,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16"/>
+        <TextBox  x:Name="Data13" HorizontalAlignment="Left" Margin="170,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16" Grid.ColumnSpan="2"/>
+        <TextBox  x:Name="Data14" HorizontalAlignment="Left" Margin="170,340,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16" Grid.ColumnSpan="2"/>
+        <TextBox  x:Name="Data15" HorizontalAlignment="Left" Margin="170,370,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16" Grid.ColumnSpan="2"/>
+        <TextBox   x:Name="Data16" HorizontalAlignment="Left" Margin="110,400,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16"/>
+        <TextBox  x:Name="Data17" HorizontalAlignment="Left" Margin="170,430,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="14" Grid.ColumnSpan="2"/>
+        <TextBox  x:Name="Data18" HorizontalAlignment="Left" Margin="2,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="14" Grid.Column="1"/>
+        <TextBox  x:Name="Data19" HorizontalAlignment="Left" Margin="62,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="14" Grid.Column="1"/>
+        <TextBox  x:Name="Data20" HorizontalAlignment="Left" Margin="122,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="14" Grid.Column="1"/>
+        <TextBox   x:Name="Data21" HorizontalAlignment="Left" Margin="2,340,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="14" Grid.Column="1"/>
+        <TextBox  x:Name="Data22" HorizontalAlignment="Left" Margin="62,340,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="14" Grid.Column="1"/>
+        <TextBox   x:Name="Data23" HorizontalAlignment="Left" Margin="122,340,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="14" Grid.Column="1"/>
+        <TextBox   x:Name="Data24" HorizontalAlignment="Left" Margin="2,370,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="14" Grid.Column="1"/>
+        <TextBlock  x:Name="DataBlock2" HorizontalAlignment="Left" Margin="2,280,0,0" Text="300" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" Background="White" TextAlignment="Center" FontSize="16" Grid.Column="1"/>
+        <TextBlock   x:Name="DataBlock3" HorizontalAlignment="Left" Margin="62,280,0,0" Text="400" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" Background="White" TextAlignment="Center" FontSize="14" Grid.Column="1"/>
+        <TextBox  x:Name="Data25" HorizontalAlignment="Left" Margin="170,400,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" TextAlignment="Center" FontSize="16" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="DataBlock4" HorizontalAlignment="Left" Margin="50,280,0,0" Text="X/Y" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" Background="White" TextAlignment="Center" FontSize="16" FontFamily="Yu Gothic UI Semibold"/>
+        <TextBlock x:Name="DataBlock5"  HorizontalAlignment="Left" Margin="50,310,0,0" Text="1000" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" Background="White" TextAlignment="Center" FontSize="16"/>
+        <TextBlock x:Name="DataBlock6" HorizontalAlignment="Left" Margin="50,341,0,0" Text="3000" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" Background="White" TextAlignment="Center" FontSize="16"/>
+        <TextBlock  x:Name="DataBlock7" HorizontalAlignment="Left" Margin="50,370,0,0" Text="5000" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" Background="White" TextAlignment="Center" FontSize="16"/>
+        <TextBlock x:Name="DataBlock8" HorizontalAlignment="Left" Margin="50,400,0,0" Text="10000" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" Background="White" TextAlignment="Center" FontSize="16"/>
+        <TextBlock  x:Name="DataBlock9" HorizontalAlignment="Left" Margin="50,430,0,0" Text="15000" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" Background="White" TextAlignment="Center" FontSize="16"/>
+        <TextBlock  x:Name="DataBlock10" HorizontalAlignment="Left" Margin="110,280,0,0" Text="100" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" Background="White" TextAlignment="Center" FontSize="16"/>
+        <TextBlock  x:Name="DataBlock11" HorizontalAlignment="Left" Margin="170,280,0,0" Text="200" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="60" Background="White" TextAlignment="Center" FontSize="16" Grid.ColumnSpan="2"/>
+
+
+        <Label Content="Приземная концентрация на расстояние X и Y" HorizontalAlignment="Left" Margin="53,228,0,0" VerticalAlignment="Top" FontSize="15" FontWeight="Bold" Height="32" Width="396" Grid.ColumnSpan="2"/>
+        <Label Content="Максимальная приземная концентрация" HorizontalAlignment="Left" Margin="60,130,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" FontStyle="Normal" Grid.ColumnSpan="2"/>
+        <Grid x:Name="InfoBoxOne" HorizontalAlignment="Left" Height="117" Margin="5,8,0,0" VerticalAlignment="Top" Width="427" Grid.ColumnSpan="2">
+            <Label Content="Опасная скорость ветра, м/с" HorizontalAlignment="Left" Margin="15,45,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Yu Gothic UI Semibold"/>
+            <Label Content="Количество пыли, г/с" HorizontalAlignment="Left" Margin="15,76,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Yu Gothic UI Semibold"/>
+            <TextBox x:Name="DangerBreezeSpeed"  HorizontalAlignment="Left" Margin="295,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="120" FontSize="16"  RenderTransformOrigin="0.342,0.56"/>
+            <TextBox x:Name="DustSolid"  HorizontalAlignment="Left" Margin="295,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="16" />
+            <Label Content="Расстояние по оси факела, м"  HorizontalAlignment="Left" Margin="15,6,0,0" VerticalAlignment="Top" FontSize="16" Width="290" FontFamily="Yu Gothic UI Semibold"/>
+            <TextBox x:Name="Xmfak"  HorizontalAlignment="Left" Margin="295,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="16" />
+        </Grid>
+        <Grid x:Name="InfoBoxTwo" HorizontalAlignment="Left" Height="322" Margin="5,108,0,0" VerticalAlignment="Top" Width="444" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="329*"/>
+                <ColumnDefinition Width="115*"/>
+            </Grid.ColumnDefinitions>
+            <TextBox  x:Name="M1Data1" HorizontalAlignment="Left" Margin="61,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74" TextAlignment="Center" FontSize="16" />
+            <TextBox x:Name="M2Data2" HorizontalAlignment="Left" Margin="130,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74" TextAlignment="Center" FontSize="16"/>
+            <TextBox x:Name="M3Data3" HorizontalAlignment="Left" Margin="204,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74" TextAlignment="Center" FontSize="16"/>
+            <TextBox x:Name="M5Data5" HorizontalAlignment="Left" Margin="13,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74" TextAlignment="Center" FontSize="16" Grid.Column="1" />
+            <TextBox x:Name="M4Data4" HorizontalAlignment="Left" Margin="278,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74" TextAlignment="Center" FontSize="16" Grid.ColumnSpan="2"/>
+        </Grid>
+        <Button Content="Button" Grid.Column="1" HorizontalAlignment="Left" Height="0" Margin="262,627,0,0" VerticalAlignment="Top" Width="0"/>
+        <Button x:Name="ReportButton" Content="Отчет" HorizontalAlignment="Left" Margin="82,506,0,0" VerticalAlignment="Top" Height="62" Width="100" Grid.Column="1" FontFamily="Yu Gothic UI Semibold" FontSize="18" Click="Button_Click_1"/>
+        <Button Content="Выход" HorizontalAlignment="Left" Margin="50,506,0,0" VerticalAlignment="Top" Height="62" Width="100" Click="Button_Click" FontFamily="Yu Gothic UI Semibold" FontSize="18"/>
+
+    </Grid>
+</Window>

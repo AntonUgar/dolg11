@@ -1,0 +1,58 @@
+﻿<Window x:Class="Valhalaaa.CalculateWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Valhalaaa"
+        mc:Ignorable="d"
+        Title="CalculateWindow" Height="718" Width="1280">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Без названия.jpg"/>
+        </Grid.Background>
+        <TextBox x:Name="Htext" HorizontalAlignment="Left" Margin="172,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="217" Height="23"/>
+        <TextBox x:Name="Dtext" HorizontalAlignment="Left" Margin="172,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="217" Height="23"/>
+        <TextBox x:Name="Tgtext" HorizontalAlignment="Left" Margin="172,224,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="217" Height="23"/>
+        <TextBox x:Name="Tvtext" HorizontalAlignment="Left" Margin="172,274,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="217" Height="23"/>
+        <TextBox x:Name="Z0text" HorizontalAlignment="Left" Margin="172,328,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="217" Height="23"/>
+        <TextBox x:Name="V1text" HorizontalAlignment="Left" Margin="927,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195" Height="23"/>
+        <TextBox x:Name="Atext" HorizontalAlignment="Left" Margin="927,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195" Height="23"/>
+        <TextBox x:Name="Etext" HorizontalAlignment="Left" Margin="927,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195" Height="23"/>
+        <TextBox x:Name="Utext" HorizontalAlignment="Left" Margin="927,277,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195" Height="23"/>
+        <TextBox x:Name="ntext" HorizontalAlignment="Left" Margin="927,331,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195" Height="23"/>
+        <Button x:Name="Colculate" Content="Расчет" HorizontalAlignment="Left" Margin="927,542,0,0" VerticalAlignment="Top" Height="70" Width="195" Click="Colculate_Click" FontFamily="Yu Gothic UI Semibold" FontSize="24"/>
+        <Button x:Name="Exit" Content="Выход" HorizontalAlignment="Left" Margin="172,543,0,0" VerticalAlignment="Top" Height="69" Width="217" Click="Exit_Click" FontFamily="Yu Gothic UI Semibold" FontSize="24"/>
+        <Label Content="H" HorizontalAlignment="Left" Margin="107,114,0,0" VerticalAlignment="Top" Background="{x:Null}" FontSize="20"/>
+        <Label Content="D" HorizontalAlignment="Left" Margin="107,172,0,0" VerticalAlignment="Top" Background="{x:Null}" FontSize="20"/>
+        <Label Content="T г" HorizontalAlignment="Left" Margin="107,223,0,0" VerticalAlignment="Top" Background="{x:Null}" FontSize="20"/>
+        <Label Content="Т в" HorizontalAlignment="Left" Margin="107,273,0,0" VerticalAlignment="Top" Background="{x:Null}" FontSize="20"/>
+        <Label Content="Z0" HorizontalAlignment="Left" Margin="107,328,0,0" VerticalAlignment="Top" Background="{x:Null}" FontSize="20"/>
+        <Label Content="V1" HorizontalAlignment="Left" Margin="884,119,0,0" VerticalAlignment="Top" Background="{x:Null}" FontSize="20"/>
+        <Label Content="n" HorizontalAlignment="Left" Margin="883,331,0,0" VerticalAlignment="Top" Background="{x:Null}" FontSize="20"/>
+        <Label Content="A" HorizontalAlignment="Left" Margin="884,164,0,0" VerticalAlignment="Top" Background="{x:Null}" FontSize="20"/>
+        <Label Content="E*" HorizontalAlignment="Left" Margin="883,224,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Background="{x:Null}" FontSize="20">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.884"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="U" HorizontalAlignment="Left" Margin="883,279,0,0" VerticalAlignment="Top" Background="{x:Null}" FontSize="20"/>
+        <Button x:Name="Back" Content="Назад" HorizontalAlignment="Left" Margin="38,36,0,0" VerticalAlignment="Top" Height="21" Width="157" Click="Back_Click" FontFamily="Yu Gothic UI Semibold" FontSize="14"/>
+        <Label Content="Концентрация вредного вещества" HorizontalAlignment="Left" Margin="172,356,0,0" VerticalAlignment="Top" Height="30" Width="217"/>
+        <Label Content="Средняя температура воздуха" HorizontalAlignment="Left" Margin="172,302,0,0" VerticalAlignment="Top" Height="30" Width="217"/>
+        <Label Content="Температура выброса на уровне устья" HorizontalAlignment="Left" Margin="172,252,0,0" VerticalAlignment="Top" Height="30" Width="231"/>
+        <Label Content="Диаметр устья источника выброса" HorizontalAlignment="Left" Margin="172,195,0,0" VerticalAlignment="Top" Height="30" Width="217"/>
+        <Label Content="Высота источника над уровнем моря" HorizontalAlignment="Left" Margin="172,142,0,0" VerticalAlignment="Top" Height="30" Width="217"/>
+        <Label Content="Коэффициент эффективности очистки выброса" HorizontalAlignment="Left" Margin="927,359,0,0" VerticalAlignment="Top" Height="30" Width="277"/>
+        <Label Content="Скорость ветра" HorizontalAlignment="Left" Margin="927,305,0,0" VerticalAlignment="Top" Height="30" Width="217"/>
+        <Label Content="Признак вида вредного выброса" HorizontalAlignment="Left" Margin="927,255,0,0" VerticalAlignment="Top" Height="30" Width="217"/>
+        <Label Content="Коэффициент температурной стратификации" HorizontalAlignment="Left" Margin="927,197,0,0" VerticalAlignment="Top" Height="30" Width="261"/>
+        <Label Content="Объем выброса" HorizontalAlignment="Left" Margin="927,142,0,0" VerticalAlignment="Top" Height="30" Width="217"/>
+
+
+    </Grid>
+</Window>

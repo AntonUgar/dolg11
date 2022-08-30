@@ -1,0 +1,48 @@
+E:\RefreshCourse\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.deps.json
+E:\RefreshCourse\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.dll
+E:\RefreshCourse\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.pdb
+E:\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.csprojAssemblyReference.cache
+E:\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.AssemblyInfoInputs.cache
+E:\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.AssemblyInfo.cs
+E:\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.csproj.CoreCompileInputs.cache
+E:\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.dll
+E:\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.pdb
+C:\Users\User\Desktop\RefreshCourse\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.deps.json
+C:\Users\User\Desktop\RefreshCourse\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.dll
+C:\Users\User\Desktop\RefreshCourse\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.pdb
+C:\Users\User\Desktop\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.AssemblyInfo.cs
+C:\Users\User\Desktop\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.dll
+C:\Users\User\Desktop\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.pdb
+D:\курсовая долг\RefreshCourse\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.deps.json
+D:\курсовая долг\RefreshCourse\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.dll
+D:\курсовая долг\RefreshCourse\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.pdb
+D:\курсовая долг\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.csproj.AssemblyReference.cache
+D:\курсовая долг\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\курсовая долг\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.AssemblyInfoInputs.cache
+D:\курсовая долг\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.AssemblyInfo.cs
+D:\курсовая долг\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.csproj.CoreCompileInputs.cache
+D:\курсовая долг\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.dll
+D:\курсовая долг\RefreshCourse\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.pdb
+C:\Users\Аня\Desktop\chjxyj1\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.deps.json
+C:\Users\Аня\Desktop\chjxyj1\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.dll
+C:\Users\Аня\Desktop\chjxyj1\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.pdb
+C:\Users\Аня\Desktop\chjxyj1\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.csproj.AssemblyReference.cache
+C:\Users\Аня\Desktop\chjxyj1\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Аня\Desktop\chjxyj1\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.AssemblyInfoInputs.cache
+C:\Users\Аня\Desktop\chjxyj1\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.AssemblyInfo.cs
+C:\Users\Аня\Desktop\chjxyj1\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.csproj.CoreCompileInputs.cache
+C:\Users\Аня\Desktop\chjxyj1\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.dll
+C:\Users\Аня\Desktop\chjxyj1\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.pdb
+C:\Users\Аня\Desktop\123\dolg1\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.deps.json
+C:\Users\Аня\Desktop\123\dolg1\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.dll
+C:\Users\Аня\Desktop\123\dolg1\CaclulateLib\bin\Debug\netstandard2.1\CaclulateLib.pdb
+C:\Users\Аня\Desktop\123\dolg1\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.csproj.AssemblyReference.cache
+C:\Users\Аня\Desktop\123\dolg1\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Аня\Desktop\123\dolg1\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.AssemblyInfoInputs.cache
+C:\Users\Аня\Desktop\123\dolg1\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.AssemblyInfo.cs
+C:\Users\Аня\Desktop\123\dolg1\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.csproj.CoreCompileInputs.cache
+C:\Users\Аня\Desktop\123\dolg1\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.dll
+C:\Users\Аня\Desktop\123\dolg1\CaclulateLib\obj\Debug\netstandard2.1\CaclulateLib.pdb

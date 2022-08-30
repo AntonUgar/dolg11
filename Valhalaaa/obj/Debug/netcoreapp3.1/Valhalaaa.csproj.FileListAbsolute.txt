@@ -1,0 +1,408 @@
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.exe
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.deps.json
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.runtimeconfig.json
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.runtimeconfig.dev.json
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.pdb
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csprojAssemblyReference.cache
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\CalculateWindow.g.cs
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\App.g.cs
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa_MarkupCompile.cache
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa_MarkupCompile.lref
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\CalculateWindow.baml
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.g.resources
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.AssemblyInfoInputs.cache
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.AssemblyInfo.cs
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csproj.CoreCompileInputs.cache
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.dll
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.pdb
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.genruntimeconfig.cache
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\CaclulateLib.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\CaclulateLib.pdb
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csproj.CopyComplete
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\ResultWindow.g.cs
+E:\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\ResultWindow.baml
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\EPPlus.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\FastReport.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\FastReport.OpenSource.Export.PdfSimple.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\runtimes\any\lib\netcoreapp3.0\FastReport.Compat.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.pdb
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.exe
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.deps.json
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.runtimeconfig.json
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.runtimeconfig.dev.json
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.pdb
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\FastReport.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\FastReport.OpenSource.Export.PdfSimple.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\runtimes\any\lib\netcoreapp3.0\FastReport.Compat.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\CaclulateLib.dll
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\CaclulateLib.pdb
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\CalculateWindow.g.cs
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\ResultWindow.g.cs
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa_MarkupCompile.cache
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa_MarkupCompile.lref
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\CalculateWindow.baml
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\ResultWindow.baml
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.g.resources
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.AssemblyInfo.cs
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csproj.CopyComplete
+C:\Users\User\Desktop\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.genruntimeconfig.cache
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.exe
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.deps.json
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.runtimeconfig.json
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.runtimeconfig.dev.json
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.pdb
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\EPPlus.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\FastReport.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\FastReport.OpenSource.Export.PdfSimple.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\runtimes\any\lib\netcoreapp3.0\FastReport.Compat.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\CaclulateLib.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\bin\Debug\netcoreapp3.1\CaclulateLib.pdb
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csproj.AssemblyReference.cache
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\CalculateWindow.g.cs
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\ResultWindow.g.cs
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\App.g.cs
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa_MarkupCompile.cache
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa_MarkupCompile.lref
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\CalculateWindow.baml
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\ResultWindow.baml
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.g.resources
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.GeneratedMSBuildEditorConfig.editorconfig
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.AssemblyInfoInputs.cache
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.AssemblyInfo.cs
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csproj.CoreCompileInputs.cache
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csproj.CopyComplete
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.dll
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.pdb
+D:\курсовая долг\RefreshCourse\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.genruntimeconfig.cache
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csproj.AssemblyReference.cache
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\CalculateWindow.g.cs
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\ResultWindow.g.cs
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa_MarkupCompile.cache
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa_MarkupCompile.lref
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\CalculateWindow.baml
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\ResultWindow.baml
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.g.resources
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.AssemblyInfoInputs.cache
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.AssemblyInfo.cs
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csproj.CoreCompileInputs.cache
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.pdb
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.exe
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.deps.json
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.runtimeconfig.json
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.runtimeconfig.dev.json
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.pdb
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\FastReport.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\FastReport.OpenSource.Export.PdfSimple.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\runtimes\any\lib\netcoreapp3.0\FastReport.Compat.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\CaclulateLib.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\bin\Debug\netcoreapp3.1\CaclulateLib.pdb
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csproj.CopyComplete
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.dll
+C:\Users\Аня\Desktop\chjxyj1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.genruntimeconfig.cache
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.exe
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.deps.json
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.runtimeconfig.json
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.runtimeconfig.dev.json
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Valhalaaa.pdb
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\FastReport.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\FastReport.OpenSource.Export.PdfSimple.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\runtimes\any\lib\netcoreapp3.0\FastReport.Compat.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\CaclulateLib.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\bin\Debug\netcoreapp3.1\CaclulateLib.pdb
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csproj.AssemblyReference.cache
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\CalculateWindow.g.cs
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\ResultWindow.g.cs
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa_MarkupCompile.cache
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa_MarkupCompile.lref
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\CalculateWindow.baml
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\ResultWindow.baml
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.g.resources
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.AssemblyInfoInputs.cache
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.AssemblyInfo.cs
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csproj.CoreCompileInputs.cache
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.csproj.CopyComplete
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.dll
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.pdb
+C:\Users\Аня\Desktop\123\dolg1\Valhalaaa\obj\Debug\netcoreapp3.1\Valhalaaa.genruntimeconfig.cache
